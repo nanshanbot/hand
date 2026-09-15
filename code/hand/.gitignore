@@ -1,0 +1,5 @@
+build
+mx.scratch
+!.settings
+tools/hand_debugger/.venv/
+tools/hand_debugger/__pycache__/

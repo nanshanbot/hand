@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Logs and local state
+*.log
+Log/
+*.json.bak
+
+# STM32 / CMake build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.obj
+*.su
+
+# Editors and operating systems
+.vscode/
+.idea/
+.settings/
+*.code-workspace
+.DS_Store
+Thumbs.db
